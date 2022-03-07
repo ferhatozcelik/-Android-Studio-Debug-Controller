@@ -8,7 +8,7 @@
 
 [Download Plugin](https://plugins.jetbrains.com/plugin/18732-debug-controller?preview=true)
 
-[Download Zip](https://github.com/ferhatozcelik/Android-Studio-Debug-Controller/blob/master/Debug-Controller.zip?raw=true)
+[Download Zip](https://github.com/ferhatozcelik/Android-Studio-DebugController/blob/main/Debug-Controller.zip?raw=true)
 
 ##Adb Komutları
 
